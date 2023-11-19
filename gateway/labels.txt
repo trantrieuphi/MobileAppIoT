@@ -1,3 +1,0 @@
-0 not wearing a mask
-1 wearing a mask
-2 nobody
