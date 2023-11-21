@@ -100,7 +100,7 @@ function HomeScreen() {
                 {curhumi + "%"}{" "}
               </Text>
             </View>
-            <View display="flex" flexDirection="row">
+            {/* <View display="flex" flexDirection="row">
               <Entypo
                 name="light-up"
                 paddingTop="20%"
@@ -111,7 +111,7 @@ function HomeScreen() {
               <Text style={styles.dataText} paddingTop="20%">
                 {curlight + "lx"}{" "}
               </Text>
-            </View>
+            </View> */}
           </View>
         </View>
       </View>

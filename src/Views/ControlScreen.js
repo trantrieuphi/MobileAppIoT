@@ -60,7 +60,7 @@ function ControlScreen() {
         </View>
       </View>
       <View style={styles.fanContainer}>
-        <Text style={styles.basetext}>Quạt</Text>
+        <Text style={styles.basetext}>Cửa</Text>
         <Text style={styles.statetext}>{isFanUse ? "ON" : "OFF"}</Text>
         <View>
           <Switch
